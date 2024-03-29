@@ -4,7 +4,7 @@
 
 
 ### The objective of this project is to analyze booking data using` Python and Spark` to:
-- Analyzed booking data with Python and Spark to run data‐driven campaigns for two hotels, 
+### - `Run ` data-driven campaigns for two hotels., 
 
 #### -` Visualize` insights to understand booking patterns and trends.
 #### -` Create custom promotions` tailored to specific customer segments.
