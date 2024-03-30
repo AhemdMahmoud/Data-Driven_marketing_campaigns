@@ -18,4 +18,5 @@
 - Data: Contains the dataset used for analysis (e.g., hotel booking data in CSV format).
 - Notebooks: Jupyter notebooks demonstrating the analysis workflow and results.
 - README.md: This file, providing an overview of the project and instructions.
-## open in colab   https://colab.research.google.com/drive/1rMJNn6o1hQ5_Nvm8oqYe0LpvevbHl9eQ#scrollTo=JPOeS8wqTwc2
+  
+ # [Open In Colab  ](https://colab.research.google.com/drive/1rMJNn6o1hQ5_Nvm8oqYe0LpvevbHl9eQ#scrollTo=JPOeS8wqTwc2) 🎉
